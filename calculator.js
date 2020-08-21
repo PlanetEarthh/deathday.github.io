@@ -81,7 +81,7 @@ function Submit(){
         console.log("Male");
     }
     else if (Gender == "female"){
-        lifeSpan = 101;
+        lifeSpan = 111;
         console.log("Female");
     }
 
