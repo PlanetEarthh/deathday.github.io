@@ -89,6 +89,8 @@ function Submit(){
     lifeSpan = lifeSpan - mainYear;
 
 
+
+
     if (bHeight <= 172){
         hReduce = 1;
     }
@@ -142,9 +144,8 @@ function Submit(){
         }
 
         lifeSpan = lifeSpan - hReduce - wReduce - sReduce - dReduce - pReduce - rReduce - perReduce;
-        var DeathYear = cYear + lifeSpan;
+        var DeathYear = cYear + lifeSpan - mainYear;
         window.alert(`${Name} Age will be ${lifeSpan}, Death Year ${DeathYear}`);
-
 
 
 
