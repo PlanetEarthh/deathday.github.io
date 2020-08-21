@@ -77,11 +77,11 @@ function Submit(){
     let bYear = document.getElementById('DOB').value;
     let Name = document.getElementById('Name').value;
     if (Gender == "male"){
-        lifeSpan = 91;
+        lifeSpan = 105;
         console.log("Male");
     }
     else if (Gender == "female"){
-        lifeSpan = 101;
+        lifeSpan = 111;
         console.log("Female");
     }
 
