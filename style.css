@@ -54,12 +54,10 @@ body{
     font-family: 'Pangolin', cursive;
     padding: 10px;
     color: #8a0303;
-   animation: animate .8s infinite;
+    border: 1px solid #8a0303;
+    animation: animate .9s infinite;
 }
 
-#See-Your-Death:hover{
-    border-bottom: 1px solid yellow;
-}
 @keyframes animate{
     50%{
         text-shadow: 0 0 10px red;
