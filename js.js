@@ -9,10 +9,10 @@ seeDeathBtn.addEventListener("click", ()=>{
 
     setTimeout(()=>{
         window.open("./calculator.html");
-    },5000);
+    },4000);
 
     setTimeout(()=>{
         popUp.classList.remove("show-scary-pop-up");
         clearInterval(pop_interval);
-    },5500);
+    },4500);
 });

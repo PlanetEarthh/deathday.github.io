@@ -2,7 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a81ead18-bd9a-4dca-a243-518e8862c22c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/calculator.html" beforeDir="false" afterPath="$PROJECT_DIR$/calculator.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator.js" beforeDir="false" afterPath="$PROJECT_DIR$/calculator.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deathday.github.io/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deathday.github.io/calci.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deathday.github.io/calculator.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deathday.github.io/calculator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deathday.github.io/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deathday.github.io/js.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deathday.github.io/scary-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deathday.github.io/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +44,8 @@
       <option name="presentableId" value="Default" />
       <updated>1597491542624</updated>
       <workItem from="1597491543753" duration="775000" />
-      <workItem from="1597748392951" duration="453000" />
+      <workItem from="1597748392951" duration="2409000" />
+      <workItem from="1598007566377" duration="672000" />
     </task>
     <servers />
   </component>
