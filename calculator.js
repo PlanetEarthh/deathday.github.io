@@ -77,11 +77,11 @@ function Submit(){
     let bYear = document.getElementById('DOB').value;
     let Name = document.getElementById('Name').value;
     if (Gender == "male"){
-        lifeSpan = 106;
+        lifeSpan = 76;
         console.log("Male");
     }
     else if (Gender == "female"){
-        lifeSpan = 111;
+        lifeSpan = 81;
         console.log("Female");
     }
 
@@ -142,7 +142,7 @@ function Submit(){
         }
 
         lifeSpan = lifeSpan - hReduce - wReduce - sReduce - dReduce - pReduce - rReduce - perReduce;
-        var DeathYear = cYear + lifeSpan - mainYear;
+        var DeathYear = cYear + lifeSpan;
         window.alert(`${Name} Age will be ${lifeSpan}, Death Year ${DeathYear}`);
 
 
