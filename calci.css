@@ -136,16 +136,15 @@ body{
     margin : 10px;
   }
 
-  @media(max-width : 1000px)
-  {
-    
-    body img{
-      height : 100vh;
+
+ /* making responsive */
+ @media screen and (max-width:500px){
+    .scary-text{
+        width: 100%;
     }
-    .cal{
-      padding-left: 15px;
-      padding-right: 15px;
-      height : 230vh;
+    .scary-text span{
+        font-size:.91rem;
+        letter-spacing: 0px;
     }
-  }
+}
   

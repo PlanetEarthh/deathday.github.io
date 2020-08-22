@@ -13,7 +13,6 @@ body{
     margin: 0px auto;
     align-content: center;
     width: content-box;
-
 }
 
 /* pop-up style */
@@ -61,5 +60,21 @@ body{
 @keyframes animate{
     50%{
         text-shadow: 0 0 10px red;
+    }
+}
+
+/* making  button responsive */
+@media screen and (max-width:500px){
+    p,b{
+        font-size: 1.4rem;
+    }
+    #See-Your-Death{
+    font-size: 1.4rem;
+    }
+    .show-scary-pop-up{
+        width: 90vw;
+    }
+    .show-scary-pop-up p{
+        font-size: 1.3rem;
     }
 }
